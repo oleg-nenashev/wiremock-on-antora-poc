@@ -3,9 +3,9 @@ site:
   start_page: root::hello.adoc
 content:
   sources:
-  - url: ./site/docs
+  - url: .
     branches: HEAD
-    start_path: docs
+    start_path: site/docs
 
 ui:
   bundle:
