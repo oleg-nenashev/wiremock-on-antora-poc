@@ -1,0 +1,12 @@
+# Antora site PoC for WireMock
+
+A site that showcases Antora use for the
+new WireMock documentation website.
+You can also find the MkDocs prototype https://github.com/wiremock/components-site[here].
+
+## Requirements
+
+- Node.js & Co
+- Antora
+- Kramdown - it will be called on demand to convert markdown doc roots
+  (https://matthewsetter.com/technical-documentation/asciidoc/convert-markdown-to-asciidoc-with-kramdoc/[blog])
